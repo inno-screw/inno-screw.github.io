@@ -3,7 +3,7 @@ email:              robert.mura@aps.rif-ev.de
 description:        Innovationszentrum für intelligentes Qualitätsmanagement in industriellen Verschraubungsvorgängen mithilfe maschineller Lernverfahren
 author:             RIF e.V.
 baseurl:            ""
-url:                "https://inno-screw.github.io"
+url:                "https://inno-screw.github.io/"
 
 # Social Profiles
 twitter_username:   
