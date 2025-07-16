@@ -3,6 +3,8 @@ layout: home
 background: '/img/pages/bg-home.png'
 ---
 
+INNO-SCREW ist ein Forschungsprojekt zum Aufbau eines Innovationszentrums für intelligentes Qualitätsmanagement in industriellen Verschraubungsprozessen. Ziel ist es, mithilfe maschineller Lernverfahren neue Wege zur Erkennung fehlerhafter Schraubverbindungen zu entwickeln. Dafür werden reale Schraubdaten an verschiedenen Stationen systematisch erfasst, aufbereitet und der Forschungsgemeinschaft bereitgestellt. Das Projekt wird im Rahmen des INNO-KOM-Programms vom Bundesministerium für Wirtschaft und Energie (BMWE) gefördert und vom RIF Institut für Forschung und Transfer e. V. in Dortmund durchgeführt.
+
 ## Problemstellung
 
 Schrauben ist eines der wichtigsten Fügeverfahren der industriellen Fertigung, doch ihre Qualitätssicherung stellt Unternehmen vor große Herausforderungen. Die derzeit eingesetzten Methoden der statistischen Prozessüberwachung (SPC) stoßen bei komplexen Anwendungsfällen an ihre Grenzen. Dies führt dazu, dass fehlerhafte Verschraubungen nicht vollständig erkannt werden und im schlimmsten Fall in den Umlauf gelangen. Die Folgen sind kostspielige Demontagemaßnahmen, Rückrufaktionen und potenzielle Imageschäden. Diese Problematik verschärft sich durch die zunehmende Individualisierung in der Produktion, die zu einer wachsenden Vielfalt möglicher Fehlerfälle führt. Gleichzeitig fehlen öffentlich verfügbare Datensätze mit realen Messdaten, die für die Entwicklung und Validierung neuer Qualitätssicherungsmethoden essentiell wären.
